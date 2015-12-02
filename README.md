@@ -5,3 +5,4 @@
 This unit will cover working with the DOM (Document Object Model). A standard cross-platform and language-independent convention for representing and interacting with objects in HTML, XHTML and XML documents within the browser.
 
 Every time you use JavaScript or jQuery to add a style, extra content, or animations to a page, you are manipulating the DOM.
+<a href='https://learn.co/lessons/hs-intro-web-design-dom-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
